@@ -359,7 +359,7 @@
                         settings.onChange.call(this, numbers);
                     }
                     removeHTML();
-                };
+                };  ////CHANGE DATA!!!!
 				
                 this.removeSlider = function () {
                     $container.find("*").off();
